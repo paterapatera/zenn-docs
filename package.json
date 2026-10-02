@@ -1,0 +1,28 @@
+{
+  "name": "zenn-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bun-types": "^1.4.2",
+    "typescript": "^5.9.3",
+    "undici-types": "^8.9.0",
+    "zenn-cli": "^0.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paterapatera/zenn-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paterapatera/zenn-docs/issues"
+  },
+  "homepage": "https://github.com/paterapatera/zenn-docs#readme"
+}
